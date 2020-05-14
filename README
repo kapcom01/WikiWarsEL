@@ -1,4 +1,4 @@
-Corpus creation date: 2020-05-14
+Corpus creation date: 2018-04-22
 Corpus release date: 2020-05-14
 
 Version 1.0
@@ -18,8 +18,9 @@ Greek corpus containing Wikipedia [1] articles with annotations of temporal
 expressions. The creation of the corpus was motivated by the English, German
 and Vietnamese versions of the corpus, the WikiWars [2], WikiWarsDE [3] and
 WikiWarsVN [4] corpora. For the creation of WikiWarsEL as well as for the
-distribution, we followed the developers of the WikiWarsEL corpus. Thus, a lot of 
-the information mentioned in this file follows the information provided by them 
+distribution, we followed the developers of WikiWarsVN corpus who in turn
+followed the developers of WikiWars corpus. Thus, a lot of the information
+mentioned in this file follows the information provided by them 
 in their README file. Thanks to all of the above!
 
 
@@ -127,3 +128,4 @@ Gertz. Time for More Languages: Temporal Tagging of Arabic, Italian, Spanish,
 and Vietnamese. In: ACM Transactions on Asian Language Information Processing 
 (TALIP), 13(1), pages 1-21, 2014, ACM.
 [5] https://dbs.ifi.uni-heidelberg.de/resources/heideltime-corpora-dl/
+
